@@ -33,5 +33,3 @@ switch (color) {
     default:
         alert('Вводите только название цветов!')
 }
-
-let good = true
